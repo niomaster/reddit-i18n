@@ -388,17 +388,17 @@ msgstr "Voer een datum in die minstens %(day)s dagen in het verleden ligt"
 #: r2/controllers/errors.py:79
 #, python-format
 msgid "address problem: %(message)s"
-msgstr "adres probleem: %(message)s"
+msgstr "adresprobleem: %(message)s"
 
 #: r2/controllers/errors.py:80
 #, python-format
 msgid "card problem: %(message)s"
-msgstr "kaart probleem: %(message)s"
+msgstr "kaartprobleem: %(message)s"
 
 #: r2/controllers/errors.py:81
 #, python-format
 msgid "this is too long (max: %(max_length)s)"
-msgstr "dit is te lang (max: %(max_length)s )"
+msgstr "dit is te lang (maximum: %(max_length)s )"
 
 #: r2/controllers/errors.py:82
 msgid "we need something here"
@@ -406,47 +406,47 @@ msgstr "hier moet nog iets komen"
 
 #: r2/controllers/errors.py:83
 msgid "we've never seen that code before"
-msgstr ""
+msgstr "die code hebben we nog nooit gezien"
 
 #: r2/controllers/errors.py:84
 msgid "that code has already been claimed -- perhaps by you?"
-msgstr ""
+msgstr "die code is al geclaimed, misschien door jou?"
 
 #: r2/controllers/errors.py:85
 msgid "that reddit doesn't allow text posts"
-msgstr ""
+msgstr "die reddit staat geen text posts toe"
 
 #: r2/controllers/errors.py:86
 msgid "that reddit only allows text posts"
-msgstr ""
+msgstr "die reddit staat alleen text posts toe"
 
 #: r2/controllers/errors.py:87
 msgid "that's a piece of history now; it's too late to reply to it"
-msgstr ""
+msgstr "dat is een stukje erfgoed; het is te laat om er op te reageren"
 
 #: r2/controllers/errors.py:88
 msgid "invalid css name"
-msgstr ""
+msgstr "ongeldige css-naam"
 
 #: r2/controllers/errors.py:89
 msgid "too many flair css classes"
-msgstr ""
+msgstr "te veel flair css-classes"
 
 #: r2/controllers/errors.py:90
 msgid "invalid client id"
-msgstr ""
+msgstr "ongeldige gebruikers-id"
 
 #: r2/controllers/errors.py:91
 msgid "access denied by the user"
-msgstr ""
+msgstr "toegang geweigerd door de gebruiker"
 
 #: r2/controllers/errors.py:92
 msgid "please confirm the form"
-msgstr ""
+msgstr "bevestig alstublieft het invulformulier"
 
 #: r2/controllers/errors.py:93
 msgid "cannot perform this action via the API"
-msgstr ""
+msgstr "kan deze actie niet voltooien via de API"
 
 #: r2/controllers/front.py:121
 msgid "self service help"
@@ -454,27 +454,27 @@ msgstr "help met zelfbediening"
 
 #: r2/controllers/front.py:301
 msgid "no comments (yet)"
-msgstr ""
+msgstr "nog geen commentaar (tot nu toe)"
 
 #: r2/controllers/front.py:303
 #, python-format
 msgid "all %d comments"
-msgstr ""
+msgstr "al het commentaar (%d)"
 
 #: r2/controllers/front.py:305
 #, python-format
 msgid "top %d comments"
-msgstr ""
+msgstr "top %d commentaar"
 
 #: r2/controllers/front.py:328
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "laat alle %d zien"
 
 #: r2/controllers/front.py:330
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "laat %d zien"
 
 #: r2/controllers/front.py:346
 msgid "create a reddit"
@@ -482,7 +482,7 @@ msgstr "maak een reddit"
 
 #: r2/controllers/front.py:348 r2/templates/createsubreddit.html:49
 msgid "create a community"
-msgstr ""
+msgstr "maak een community"
 
 #: r2/controllers/front.py:401 r2/controllers/front.py:407
 #: r2/controllers/listingcontroller.py:621
@@ -492,11 +492,11 @@ msgstr "alle"
 
 #: r2/controllers/front.py:413
 msgid "filter by action"
-msgstr ""
+msgstr "filter op actie"
 
 #: r2/controllers/front.py:415
 msgid "filter by moderator"
-msgstr ""
+msgstr "filter op moderator"
 
 #: r2/controllers/front.py:579 r2/lib/menus.py:142
 msgid "awards"
@@ -542,41 +542,41 @@ msgstr "welkom terug"
 
 #: r2/controllers/front.py:1094
 msgid "thanks"
-msgstr ""
+msgstr "bedankt"
 
 #: r2/controllers/front.py:1127 r2/controllers/front.py:1149
 #: r2/lib/menus.py:101 r2/templates/gold.html:84
 msgid "reddit gold"
-msgstr ""
+msgstr "reddit gold"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "jaaaaaaa... nee."
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
-msgstr ""
+msgstr "het goud is geleverd!"
 
 #: r2/controllers/ipn.py:449
 msgid "thanks for buying reddit gold!"
-msgstr ""
+msgstr "bedankt voor het kopen van reddit gold!"
 
 #: r2/controllers/ipn.py:459 r2/templates/thanks.html:32
 msgid "thanks for buying creddits!"
-msgstr ""
+msgstr "bedankt voor het kopen van creddits!"
 
 #: r2/controllers/ipn.py:460
 msgid "To spend them, visit [/gold](/gold) or your favorite person's userpage."
-msgstr ""
+msgstr "Om ze te gebruiken, bezoek [/gold](/gold) of het profiel van je favoriete gebruiker"
 
 #: r2/controllers/ipn.py:473
 msgid "thanks for giving reddit gold!"
-msgstr ""
+msgstr "bedankt voor het geven van reddit gold!"
 
 #: r2/controllers/ipn.py:474
 #, python-format
 msgid "Your gift to %s has been delivered."
-msgstr ""
+msgstr "Je cadeautje voor %s is geleverd."
 
 #: r2/controllers/listingcontroller.py:348
 msgid "newest submissions"
@@ -592,7 +592,7 @@ msgstr "meest controversiële links"
 
 #: r2/controllers/listingcontroller.py:438
 msgid "you're really bored now, eh?"
-msgstr "je zit je nu echt te vervelen, he?"
+msgstr "je zit je nu echt te vervelen, hè?"
 
 #: r2/controllers/listingcontroller.py:502
 #, python-format
@@ -661,11 +661,11 @@ msgstr "reacties"
 
 #: r2/controllers/oauth2.py:42
 msgid "My Identity"
-msgstr ""
+msgstr "Mijn identiteit"
 
 #: r2/controllers/oauth2.py:43
 msgid "Access my reddit username and signup date."
-msgstr ""
+msgstr "Krijg toegang tot mijn gebruikersnaam en datum van inschrijven."
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
@@ -689,35 +689,35 @@ msgstr "zoeken is fout gegaan"
 
 #: r2/controllers/validator/validator.py:1502
 msgid "please provide a first name"
-msgstr "geef een voornaam, alsjeblieft"
+msgstr "geef een voornaam, alstublieft"
 
 #: r2/controllers/validator/validator.py:1504
 msgid "please provide a last name"
-msgstr "geef een achternaam, alsjeblieft"
+msgstr "geef een achternaam, alstublieft"
 
 #: r2/controllers/validator/validator.py:1506
 msgid "please provide an address"
-msgstr "geef een adres, alsjeblieft"
+msgstr "geef een adres, alstublieft"
 
 #: r2/controllers/validator/validator.py:1508
 msgid "please provide your city"
-msgstr "geef je woonplaats, alsjeblieft"
+msgstr "geef je woonplaats, alstublieft"
 
 #: r2/controllers/validator/validator.py:1510
 msgid "please provide your state"
-msgstr "geef je provincie, alsjeblieft"
+msgstr "geef je provincie, alstublieft"
 
 #: r2/controllers/validator/validator.py:1512
 msgid "please provide your zip or post code"
-msgstr "geef postcode, alsjeblieft"
+msgstr "geef postcode, alstublieft"
 
 #: r2/controllers/validator/validator.py:1514
 msgid "please pick a country"
-msgstr "selecteer je land, alsjeblieft"
+msgstr "selecteer je land, alstublieft"
 
 #: r2/controllers/validator/validator.py:1518
 msgid "Our ToS don't cover your country (yet). Sorry."
-msgstr ""
+msgstr "Onze gebruikersvoorwaarden dekken je land nog niet. Sorry."
 
 #: r2/controllers/validator/validator.py:1537
 msgid "credit card numbers should be 13 to 16 digits"
@@ -729,7 +729,7 @@ msgstr "datums moeten JJJJ-MM zijn"
 
 #: r2/controllers/validator/validator.py:1542
 msgid "card verification codes should be 3 or 4 digits"
-msgstr "kaart verificatiecodes zijn 3 of vier cijfers"
+msgstr "kaart verificatiecodes zijn drie of vier cijfers"
 
 #: r2/lib/cssfilter.py:306
 msgid "if you need backslashes, you're doing it wrong"
@@ -737,7 +737,7 @@ msgstr "als je backslashes nodig hebt, doe je het fout"
 
 #: r2/lib/jsontemplates.py:302 r2/templates/usertext.html:55
 msgid "[removed]"
-msgstr ""
+msgstr "[verwijderd]"
 
 #: r2/lib/menus.py:46
 msgid "what's hot"
