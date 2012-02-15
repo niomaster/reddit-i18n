@@ -3054,23 +3054,23 @@ msgstr "positioneer flair rechts van de gebruikersnaam"
 
 #: r2/templates/flairprefs.html:30
 msgid "Show my flair on this reddit. It looks like:"
-msgstr ""
+msgstr "Laat mijn flair zien op deze reddit. Hij iet er zo uit:"
 
 #: r2/templates/flairselector.html:23
 msgid "select flair"
-msgstr ""
+msgstr "selecteer flair"
 
 #: r2/templates/flairselector.html:52
 msgid "flair selection unavailable"
-msgstr ""
+msgstr "flairselectie niet beschikbaar"
 
 #: r2/templates/flairtemplatelist.html:34
 msgid "user can edit?"
-msgstr ""
+msgstr "gebruiker kan bewerken?"
 
 #: r2/templates/flairtemplatelist.html:49
 msgid "clear all flair templates"
-msgstr ""
+msgstr "verwijder alle flairsjablonen"
 
 #: r2/templates/frametoolbar.html:66
 msgid "show url"
@@ -3090,11 +3090,11 @@ msgstr "vind iets onverwachts"
 
 #: r2/templates/frametoolbar.html:88
 msgid "visit your userpage"
-msgstr "bezoek je gebruikerspagina"
+msgstr "bezoek je profiel"
 
 #: r2/templates/frametoolbar.html:92
 msgid "login / register"
-msgstr "inloggen / aanmelden"
+msgstr "inloggen / registreren"
 
 #: r2/templates/frametoolbar.html:100
 msgid "new mail"
@@ -3127,7 +3127,7 @@ msgstr "keur af"
 
 #: r2/templates/frametoolbar.html:195 r2/templates/printablebuttons.html:171
 msgid "unsave"
-msgstr "onopslaan"
+msgstr "niet meer opslaan"
 
 #: r2/templates/frametoolbar.html:196 r2/templates/printablebuttons.html:172
 msgid "unsaved"
@@ -3152,43 +3152,43 @@ msgstr "schakel het commentaarpaneel in"
 
 #: r2/templates/gold.html:89
 msgid "Buy for yourself, as an ongoing subscription"
-msgstr ""
+msgstr "Koop voor jezelf, als een doorgaand abbonement."
 
 #: r2/templates/gold.html:91
 msgid "Buy for yourself, as a one-time purchase"
-msgstr ""
+msgstr "Koop voor jezelf, als een eenmalige aankoop"
 
 #: r2/templates/gold.html:93
 msgid "Give reddit gold to someone else"
-msgstr ""
+msgstr "Geef reddit gold aan iemand anders"
 
 #: r2/templates/gold.html:95
 msgid "Buy reddit gold \"creddits\""
-msgstr ""
+msgstr "Koop reddit gold \"creddits\""
 
 #: r2/templates/gold.html:103
 msgid "$3.99 / month"
-msgstr ""
+msgstr "$3,99 per maand"
 
 #: r2/templates/gold.html:104
 msgid "$29.99 / year (which works out to just $2.50 / month!)"
-msgstr ""
+msgstr "$29,99 per jaar (wat precies $2,50 per maand is!)"
 
 #: r2/templates/gold.html:106 r2/templates/subreddit.html:65
 msgid "subscribe"
-msgstr ""
+msgstr "abboneer"
 
 #: r2/templates/gold.html:112
 msgid "How many months?"
-msgstr ""
+msgstr "Hoe veel maanden?"
 
 #: r2/templates/gold.html:114 r2/templates/gold.html:175
 msgid "buy"
-msgstr ""
+msgstr "koop"
 
 #: r2/templates/gold.html:120
 msgid "How much gold do you wish to bestow?"
-msgstr ""
+msgstr "Hoe veel goud wil je schenken?"
 
 #: r2/templates/gold.html:131
 #, python-format
@@ -3196,57 +3196,61 @@ msgid ""
 "Note: If you want to give more than %(number)d, you'll need to buy more "
 "creddits."
 msgstr ""
+"NB: als je meer dan %(number)d wil geven, moet je eerst meer creddits kopen."
 
 #: r2/templates/gold.html:138
 msgid "To whom are you giving said gold?"
-msgstr ""
+msgstr "Aan wie zal je het besproken goud schenken?"
 
 #: r2/templates/gold.html:149
 msgid "Do you want them to know it came from you?"
-msgstr ""
+msgstr "Wil je dat ze weten dat het van jou kwam?"
 
 #: r2/templates/gold.html:151
 msgid "yes, include my username"
-msgstr ""
+msgstr "ja, voeg mijn gebruikersnaam toe"
 
 #: r2/templates/gold.html:155
 msgid "no, make it anonymous"
-msgstr ""
+msgstr "nee, maak het anoniem"
 
 #: r2/templates/gold.html:161
 msgid "Gift message (optional):"
-msgstr ""
+msgstr "Cadeaubricht (optioneel):"
 
 #: r2/templates/gold.html:166 r2/templates/goldpayment.html:51
 msgid "give"
-msgstr ""
+msgstr "geef"
 
 #: r2/templates/gold.html:173
 msgid ""
 "How many creddits would you like to buy? (each will allow you to give one "
 "month of reddit gold)"
 msgstr ""
+"Hoe veel creddits zou je willen kopen? (elke stelt je in staat om één maand "
+"reddit gold te geven)"
 
 #: r2/templates/goldpayment.html:38
 msgid "The following gift note will be attached:"
-msgstr ""
+msgstr "Het volgende bericht zal worden toegevoegd:"
 
 #: r2/templates/goldpayment.html:55
 msgid "Please select a payment method."
-msgstr ""
+msgstr "Selecteer een betalingswijze, alstublieft."
 
 #: r2/templates/goldpayment.html:78
 msgid "Google Checkout"
-msgstr ""
+msgstr "Google Checkout"
 
 #: r2/templates/goldpayment.html:90
 msgid "PayPal"
-msgstr ""
+msgstr "PayPal"
 
 #: r2/templates/goldpayment.html:94
 msgid ""
 "Note: Google Checkout does not support ongoing subscriptions at this time."
 msgstr ""
+"NB: Google Checkout kan op dit moment geen doorgaande abbonementen afhandelen."
 
 #: r2/templates/link.html:71
 msgid "Adult content: Not Safe For Work"
@@ -3267,7 +3271,7 @@ msgstr ""
 #: r2/templates/link.html:205
 #, python-format
 msgid "%(score)s submitted %(when)s ago"
-msgstr ""
+msgstr "%(score)s %(when)s geleden toegevoegd"
 
 #: r2/templates/link.html:207
 #, python-format
