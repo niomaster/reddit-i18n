@@ -845,7 +845,7 @@ msgstr "spam"
 
 #: r2/lib/menus.py:81
 msgid "autobanned"
-msgstr "autobanned"
+msgstr "automatisch verbannen"
 
 #: r2/lib/menus.py:84
 msgid "turn admin on"
@@ -861,7 +861,7 @@ msgstr "voorkeuren"
 
 #: r2/lib/menus.py:89
 msgid "blog"
-msgstr ""
+msgstr "blog"
 
 #: r2/lib/menus.py:90 r2/templates/utils.html:413
 msgid "logout"
@@ -869,11 +869,11 @@ msgstr "log uit"
 
 #: r2/lib/menus.py:93
 msgid "contact us"
-msgstr ""
+msgstr "contact opnemen"
 
 #: r2/lib/menus.py:94
 msgid "firefox extension"
-msgstr ""
+msgstr "firefox add-on"
 
 #: r2/lib/menus.py:95
 msgid "buttons"
@@ -897,11 +897,11 @@ msgstr "winkel"
 
 #: r2/lib/menus.py:100
 msgid "advertise"
-msgstr ""
+msgstr "adverteren"
 
 #: r2/lib/menus.py:102
 msgid "subreddits"
-msgstr ""
+msgstr "subreddits"
 
 #: r2/lib/menus.py:105 r2/templates/promotelinkform.html:318
 msgid "options"
@@ -938,7 +938,7 @@ msgstr "verstuurd"
 
 #: r2/lib/menus.py:117
 msgid "comments {toolbar}"
-msgstr "reacties"
+msgstr "reacties {toolbar}"
 
 #: r2/lib/menus.py:119 r2/templates/prefoptions.html:272
 #: r2/templates/prefoptions.html:281 r2/templates/prefoptions.html:290
@@ -964,12 +964,12 @@ msgstr "over"
 
 #: r2/lib/menus.py:126
 msgid "edit subscriptions"
-msgstr ""
+msgstr "wijzig abonnementen"
 
 #: r2/lib/menus.py:127 r2/lib/pages/pages.py:1045
 #: r2/templates/createsubreddit.html:39
 msgid "community settings"
-msgstr ""
+msgstr "community-instellingen"
 
 #: r2/lib/menus.py:128
 msgid "edit moderators"
@@ -985,15 +985,15 @@ msgstr "goedgekeurde inzenders bewerken"
 
 #: r2/lib/menus.py:131 r2/lib/menus.py:132 r2/lib/pages/pages.py:2739
 msgid "ban users"
-msgstr "ban gebruikers"
+msgstr "verban gebruikers"
 
 #: r2/lib/menus.py:133 r2/models/modaction.py:42
 msgid "edit user flair"
-msgstr ""
+msgstr "wijzig gebruikersflair"
 
 #: r2/lib/menus.py:134
 msgid "moderation log"
-msgstr ""
+msgstr "moderatielog"
 
 #: r2/lib/menus.py:136
 msgid "popular"
@@ -1066,7 +1066,7 @@ msgstr "afgekeurd"
 
 #: r2/lib/menus.py:156
 msgid "hidden {toolbar}"
-msgstr "verborgen"
+msgstr "verborgen {toolbar}"
 
 #: r2/lib/menus.py:158 r2/templates/printablebuttons.html:58
 msgid "reported"
@@ -1074,7 +1074,7 @@ msgstr "gerapporteerd"
 
 #: r2/lib/menus.py:160
 msgid "self-serve advertising"
-msgstr "self-serve advertering"
+msgstr "self-serve adverteren"
 
 #: r2/lib/menus.py:161
 msgid "create promotion"
@@ -1082,11 +1082,11 @@ msgstr "maak promotie"
 
 #: r2/lib/menus.py:162
 msgid "my promoted links"
-msgstr "mijn gepromootte links"
+msgstr "mijn gepromote links"
 
 #: r2/lib/menus.py:163
 msgid "all promoted links"
-msgstr "alle gepromootte links"
+msgstr "alle gepromote links"
 
 #: r2/lib/menus.py:164
 msgid "unseen"
@@ -1098,7 +1098,7 @@ msgstr "obstructie"
 
 #: r2/lib/menus.py:166
 msgid "analytics"
-msgstr "analytiek"
+msgstr "statistieken"
 
 #: r2/lib/menus.py:167
 msgid "live"
@@ -1114,7 +1114,7 @@ msgstr "in afwachting"
 
 #: r2/lib/menus.py:170
 msgid "rejected"
-msgstr "afgekeurd"
+msgstr "afgeslagen"
 
 #: r2/lib/menus.py:172
 msgid "whitelist"
@@ -1142,73 +1142,73 @@ msgstr[1] "dagen"
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:2
 msgid "Funny 500 page message 1"
-msgstr "Grappige 500 pagina bericht 1"
+msgstr "Moet je niet eens aan het werk?"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:4
 msgid "Funny 500 page message 2"
-msgstr "Grappige 500 pagina bericht 2"
+msgstr "Zoek hulp."
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:6
 msgid "Funny 500 page message 3"
-msgstr "Grappige 500 pagina bericht 3"
+msgstr "Reddit alien approves."
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:8
 msgid "Funny 500 page message 4"
-msgstr "Grappige 500 pagina bericht 4"
+msgstr "Je belast in je eentje de server."
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:10
 msgid "Funny 500 page message 5"
-msgstr "Grappige 500 pagina bericht 5"
+msgstr "Als je zo van reddit houdt, <a href=\"http://www.reddit.com/store\">steun</a> ons dan!"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:12
 msgid "Funny 500 page message 6"
-msgstr "Grappige 500 pagina bericht 6"
+msgstr "Kijk naar de tijd!"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:14
 msgid "Funny 500 page message 7"
-msgstr "Grappige 500 pagina bericht 7"
+msgstr "Maak het weer goed en <a href=\"/r/i18n\">help reddit vertalen</a>."
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:16
 msgid "Funny 500 page message 8"
-msgstr "Grappige 500 pagina bericht 8"
+msgstr "Arrrrrrr! Piraten slapen niet."
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:18
 msgid "Funny 500 page message 9"
-msgstr "Grappige 500 pagina bericht 9"
+msgstr "Iemand, maak %(admin)s wakker!"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:20
 msgid "Funny 500 page message 10"
-msgstr "Grappige 500 pagina bericht 10"
+msgstr "Nog één pagina!"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:22
 msgid "Reason to create a reddit 1"
-msgstr "Reden een reddit aan te maken 1"
+msgstr "...voor je favoriete onderwerp"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:24
 msgid "Reason to create a reddit 2"
-msgstr "Reden een reddit aan te maken 2"
+msgstr "...voor je favoriete thee"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
