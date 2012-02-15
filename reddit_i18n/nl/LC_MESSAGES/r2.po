@@ -102,11 +102,11 @@ msgstr "te veel afbeeldingen (je krijgt er maar %d )"
 
 #: r2/controllers/api.py:1227
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Ongeldige afbeelding of algemene afbeeldingsfout "
 
 #: r2/controllers/api.py:1682
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "geclaimd! ga nu naar iemands profiel en geef hem/haar een cadeautje!"
 
 #: r2/controllers/api.py:1687
 msgid "claimed!"
@@ -120,19 +120,19 @@ msgstr ""
 
 #: r2/controllers/api.py:1705
 msgid "try again tomorrow"
-msgstr ""
+msgstr "probeer het morgen opnieuw"
 
 #: r2/controllers/api.py:1932 r2/controllers/api.py:2113
 msgid "invalid css class"
-msgstr ""
+msgstr "ongeldige css-class"
 
 #: r2/controllers/api.py:1935 r2/controllers/api.py:2116
 msgid "too many css classes"
-msgstr ""
+msgstr "te veel css-classes"
 
 #: r2/controllers/api.py:2132
 msgid "max flair templates reached"
-msgstr ""
+msgstr "maximum aan flair-sjablonen bereikt"
 
 #: r2/controllers/buttons.py:201 r2/controllers/buttons.py:209
 msgid "reddit buttons"
@@ -161,7 +161,7 @@ msgstr "ja, het is goed!"
 
 #: r2/controllers/embed.py:67
 msgid "just read this first."
-msgstr "lees dit eerst."
+msgstr "lees dit eerst even."
 
 #: r2/controllers/embed.py:83 r2/lib/menus.py:88 r2/lib/pages/pages.py:425
 #: r2/templates/frametoolbar.html:107
@@ -207,11 +207,11 @@ msgstr "die gebruikersnaam is al in gebruik"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "die gebruikersnaam was in gebruik voor een verwijderde account"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "je kunt niet verzenden naar een gebruiker die je hebt geblokkeerd"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -219,11 +219,11 @@ msgstr "id niet gespecificeerd"
 
 #: r2/controllers/errors.py:37
 msgid "you can't do that"
-msgstr "dat kun je niet doen"
+msgstr "dat kan je niet doen"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "je bent niet ingelogd als die gebruiker"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
@@ -280,7 +280,7 @@ msgstr "geef een gebruikersnaam"
 #: r2/controllers/errors.py:53
 #, python-format
 msgid "that number isn't in the right range (%(min)d to %(max)d)"
-msgstr "dat nummer zit niet in de juiste reeks ( %(min)d to %(max)d )"
+msgstr "dat nummer zit niet in het juiste interval ( %(min)d tot %(max)d )"
 
 #: r2/controllers/errors.py:54
 msgid "you used a character here that we can't handle"
@@ -313,7 +313,7 @@ msgstr "je mag hier niet posten"
 
 #: r2/controllers/errors.py:60
 msgid "you must specify a subreddit"
-msgstr ""
+msgstr "je moet een subreddit specificeren"
 
 #: r2/controllers/errors.py:61
 msgid "that name isn't going to work"
@@ -322,7 +322,7 @@ msgstr "die naam gaat niet werken"
 #: r2/controllers/errors.py:62
 #, python-format
 msgid "you are doing that too much. try again in %(time)s."
-msgstr ""
+msgstr "dat doe je te veel. probeer het opnieuw in %(time)s."
 
 #: r2/controllers/errors.py:63
 msgid "your session has expired"
@@ -348,7 +348,7 @@ msgstr "geef ten minste één e-mailadres op"
 #: r2/controllers/errors.py:72
 #, python-format
 msgid "please only share to %(num)s emails at a time."
-msgstr "niet meer dan %(num)s email tegelijk delen, alsjeblieft"
+msgstr "graag niet meer dan %(num)s email tegelijk delen."
 
 #: r2/controllers/errors.py:73
 #, python-format
@@ -364,7 +364,8 @@ msgstr ""
 msgid ""
 "reddit advertising is blacked out from %(start)s to %(end)s. please select "
 "different dates."
-msgstr ""
+msgstr "adverteren op reddit gaat zwart van %(start)s tot %(end)s. Selecteer"
+"andere data."
 
 #: r2/controllers/errors.py:75
 msgid "please provide a date of the form mm/dd/yyyy"
