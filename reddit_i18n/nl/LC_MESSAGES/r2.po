@@ -3838,7 +3838,7 @@ msgstr "incompleet"
 
 #: r2/templates/prefoptions.html:94
 msgid "volunteer to translate"
-msgstr "wordt vrijwillig vertaler"
+msgstr "word vrijwillig vertaler"
 
 #: r2/templates/prefoptions.html:98
 msgid "content language"
